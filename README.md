@@ -8,7 +8,7 @@
   </ul>
 </div>
 
-I am a passionate and versatile Software Engineer based in Noida, India, currently working at ENABLEX. With a strong foundation in languages such as C++, Python, JavaScript, TypeScript, Ruby, HTML, and CSS. I specialize in frontend development, API integration, and SaaS extension development.
+I am a passionate and versatile Software Engineer based in Noida, India, currently working at ENABLEX. With a strong foundation in languages such as Python, JavaScript, TypeScript, Ruby, HTML, and CSS. I specialize in frontend development, API integration, and SaaS extension development.
 
 In my current role at ENABLEX, I have played a pivotal role in integrating third-party APIs into the Chatbot Flow Builder Application, facilitating seamless data transfer to CRM systems like ZOHO, Zendesk, and HubSpot. As the Frontend Lead for the Chatbot Builder SaaS Project, I led the development efforts to deliver effective solutions and collaborated closely with design teams to create a user-centric interface. I have a rich background as an Engineer Trainee at ENABLEX, where I showcased proficiency in JavaScript development, UX enhancement, and API integration. My ability to adapt quickly was demonstrated when I built the first Ruby application server within a challenging two-day timeframe.
 
