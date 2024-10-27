@@ -58,7 +58,7 @@ Beyond coding, I enjoy playing sports, listening to music, and engaging in meani
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,python,js,ts,html,css,ruby,sass,bootstrap,tailwind,nextjs,jquery,git,vscode,windows,sublime,figma,npm,yarn,vercel,linux,windows&perline=14" />
+    <img src="[https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,python,js,ts,html,css,ruby,sass,bootstrap,tailwind,nextjs,jquery,git,vscode,windows,sublime,figma,npm,yarn,vercel,linux,windows&perline=14](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,python,js,ts,redux,html,css,ruby,sass,bootstrap,tailwind,nextjs,jquery,git,github,vscode,vim,windows,sublime,figma,npm,yarn,vercel,vite,vue,webpack,postman,linux,windows,stackoverflow&perline=15)" />
   </a>
 </p>
 
