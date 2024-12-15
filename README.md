@@ -25,7 +25,7 @@ Beyond coding, I enjoy playing sports, listening to music, and engaging in meani
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=s07k&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s07k&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=s07k&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=s07k&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)" /> 
 </td>
 <td width="50%" align="center">
 
