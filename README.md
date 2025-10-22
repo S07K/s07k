@@ -8,13 +8,28 @@
   </ul>
 </div>
 
-I am a passionate and versatile Software Engineer based in Noida, India, currently working at Paytm. With a strong foundation in languages such as Python, JavaScript, TypeScript, Ruby, HTML, and CSS. I specialize in frontend development, API integration, and SaaS extension development.
+- 👨‍💻 **Software Engineer** based in Noida, India, currently working at **Paytm**.  
+- Strong foundation in **Python**, **JavaScript**, **TypeScript**, **Ruby**, **HTML**, and **CSS**.  
+- Specialized in **frontend development**, **API integration**, and **SaaS extension development**.  
 
-Previously worked at EnableX. At EnableX, I have played a pivotal role in integrating third-party APIs into the Chatbot Flow Builder Application, facilitating seamless data transfer to CRM systems like ZOHO, Zendesk, and HubSpot. As the Frontend Lead for the Chatbot Builder SaaS Project, I led the development efforts to deliver effective solutions and collaborated closely with design teams to create a user-centric interface. I have a rich background as an Engineer Trainee at EnableX, where I showcased proficiency in JavaScript development, UX enhancement, and API integration. My ability to adapt quickly was demonstrated when I built the first Ruby application server within a challenging two-day timeframe.
+### 💼 Professional Experience  
+- **EnableX (Previous Role)**  
+  - Integrated third-party APIs into the **Chatbot Flow Builder Application**, enabling seamless data transfer to CRM systems like **Zoho**, **Zendesk**, and **HubSpot**.  
+  - Served as **Frontend Lead** for the **Chatbot Builder SaaS Project**, leading development efforts and collaborating with design teams to build a user-centric interface.  
+  - Worked as an **Engineer Trainee**, enhancing UX, optimizing JavaScript-based solutions, and integrating APIs.  
+  - Built the company’s first **Ruby application server** within a challenging **two-day timeframe**.  
 
-In addition to my professional experience, I have contributed to open-source projects during my time as a Contributor in the GIRLSCRIPT WINTER OF CONTRIBUTING 2021 program, highlighting my commitment to community engagement and collaborative software development. I hold a Bachelor of Science (Honors) in Computer Science from Shaheed Sukhdev College of Business Studies, University of Delhi, where I laid the academic groundwork for my career.
+### 🌱 Community & Open Source  
+- **Contributor** in **GIRLSCRIPT WINTER OF CONTRIBUTING 2021**, demonstrating commitment to community-driven software development.  
 
-Beyond coding, I enjoy playing sports, listening to music, and engaging in meaningful conversations. In my free time, I love exploring new tech stacks, showcasing my curiosity and enthusiasm for staying at the forefront of technology. Explore my portfolio to learn more about my skills, projects, and the innovative solutions I bring to the world of software development!
+### 🎓 Education  
+- **B.Sc. (Hons.) in Computer Science** from **Shaheed Sukhdev College of Business Studies**, **University of Delhi**.  
+
+### 🎯 Beyond Work  
+- Passionate about **sports**, **music**, and **meaningful conversations**.  
+- Constantly exploring new **tech stacks** to stay at the forefront of innovation.  
+- Explore my [portfolio](https://s07k.github.io/portfolio/) to learn more about my **skills**, **projects**, and **innovative solutions**.  
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
