@@ -9,7 +9,7 @@
 </div>
 
 - 👨‍💻 **Software Engineer** based in Noida, India, currently working at **Paytm**.  
-- Strong foundation in **Python**, **JavaScript**, **TypeScript**, **Ruby**, **HTML**, and **CSS**.  
+- Strong foundation in **Python**, **JavaScript**, **TypeScript**, **HTML**, and **CSS**.  
 - Specialized in **frontend development**, **API integration**, and **SaaS extension development**.  
 
 ### 💼 Professional Experience  
