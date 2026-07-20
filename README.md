@@ -28,7 +28,7 @@
 ### 🎯 Beyond Work  
 - Passionate about **sports**, **music**, and **meaningful conversations**.  
 - Constantly exploring new **tech stacks** to stay at the forefront of innovation.  
-- Explore my [portfolio](https://s07k.github.io/portfolio/) to learn more about my **skills**, **projects**, and **innovative solutions**.  
+- Explore my [portfolio]([https://s07k.github.io/portfolio/](https://portfolio-indol-three-50.vercel.app/)) to learn more about my **skills**, **projects**, and **innovative solutions**.  
 
 
 <!--- stats & Trophy (start) -->
