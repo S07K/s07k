@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>Full Stack Engineer</b> · MERN · GenAI & SaaS Product Development · ~4 YOE
+  <b>Full Stack Engineer</b> · GenAI & SaaS Product Development · ~4 YOE
 </p>
 
 <p align="center">
