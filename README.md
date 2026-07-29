@@ -29,7 +29,7 @@
 
 ### 💼 What I've Built
 
-- **OneAlbum** — *Founding Engineer* (2026 – Present): building the product and engineering foundation from the ground up.
+- **[OneAlbum](https://onealbum.app/)** — *Founding Engineer* (2026 – Present): building the product and engineering foundation from the ground up.
 - **Kitevo** — *Founder* (2026 – Present): leading product and tech end-to-end.
 - **Paytm** — *Senior Software Engineer* (2025 – 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
 - **EnableX** — *Software Engineer → Senior* (2022 – 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs Chatbot Builder, lifting user adoption **+30%** and cutting communication errors **-25%**.
