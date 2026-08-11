@@ -55,7 +55,7 @@
   https://github-readme-stats-<yourname>.vercel.app/api?username=s07k...
   The &cache_seconds=86400 param below also reduces rate-limit failures.
 -->
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=s07k&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="Shubham's GitHub stats" />
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s07k&theme=dark&hide_border=true&layout=compact&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+</p> -->
 
 <!--- trophy (start) -->
 <!--
