@@ -87,7 +87,11 @@
 
 <!--tech stack icons-->
 <p align="center">
+  <a href="<p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,python,js,ts,redux,html,css,ruby,sass,bootstrap,tailwind,jquery,git,github,vscode,vim,figma,npm,yarn,vercel,vite,webpack,postman,linux&perline=14" />
+  </a>
+</p>">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,python,js,ts,redux,html,css,ruby,sass,bootstrap,tailwind,jquery,git,github,vscode,vim,figma,npm,yarn,vercel,vite,webpack,postman,linux&perline=14" />
   </a>
 </p>
