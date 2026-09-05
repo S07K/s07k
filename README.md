@@ -21,8 +21,8 @@
 
 ---
 
-- 🚀 **Founding Engineer @ OneAlbum** & **Founder @ Kitevo** — building products from 0 → 1.
-- 💼 **Ex-Paytm** Senior Software Engineer — drove ~20% revenue impact and cut critical production errors by ~80% on core payment journeys.
+- 🚀 **Founding Engineer @ [OneAlbum](https://onealbum.app/)** & **Founder @ [Kitevo](https://www.producthunt.com/products/kitevo?launch=kitevo)** — building products from 0 → 1.
+- 💼 **Ex-[Paytm](https://paytm.com/)** Senior Software Engineer — drove ~20% revenue impact and cut critical production errors by ~80% on core payment journeys.
 - 🧩 **~4 years** shipping scalable, production-grade web apps and SaaS platforms across the **MERN** stack.
 - 🤖 Focused on **Generative AI integrations**, **API/third-party integrations**, and **chatbot platforms**.
 - 🌏 Based in **India**, open to **remote / full-stack / frontend / AI-integrated** roles.
@@ -30,16 +30,16 @@
 ### 💼 What I've Built
 
 - **[OneAlbum](https://onealbum.app/)** — *Founding Engineer* (2026 – Present): building the product and engineering foundation from the ground up.
-- **Kitevo** — *Founder* (2026 – Present): leading product and tech end-to-end.
-- **Paytm** — *Senior Software Engineer* (2025 – 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
-- **EnableX** — *Software Engineer → Senior* (2022 – 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs Chatbot Builder, lifting user adoption **+30%** and cutting communication errors **-25%**.
+- **[Kitevo](https://www.producthunt.com/products/kitevo?launch=kitevo)** — *Founder* (2026 – Present): leading product and tech end-to-end.
+- **[Paytm](https://paytm.com/)** — *Senior Software Engineer* (2025 – 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
+- **[EnableX](https://www.enablex.io/)** — *Software Engineer → Senior* (2022 – 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs Chatbot Builder, lifting user adoption **+30%** and cutting communication errors **-25%**.
 
 ### 🌱 Community & Open Source
-- **Contributor**, *GirlScript Winter of Contributing 2021* — collaborative open-source development.
-- **Web Developer**, *Teach For India* — built a high-impact campaign web interface.
+- **Contributor**, *[GirlScript Winter of Contributing 2021](https://www.linkedin.com/company/girlscript-winter-of-contributing/)* — collaborative open-source development.
+- **Web Developer**, *[Teach For India](https://www.teachforindia.org/)* — built a high-impact campaign web interface.
 
 ### 🎓 Education
-- **B.Sc. (Hons.) Computer Science** — Shaheed Sukhdev College of Business Studies, **University of Delhi**.
+- **B.Sc. (Hons.) Computer Science** — Shaheed Sukhdev College of Business Studies, **[University of Delhi](https://www.du.ac.in/)**.
 
 ### 🎯 Beyond Work
 - Passionate about **sports**, **music**, and **meaningful conversations**, and constantly exploring new tech stacks.
