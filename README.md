@@ -18,7 +18,6 @@
 ---
 
 - 🚀 Founded **[GuildOS](https://guildos.design/)**, **[OneAlbum](https://onealbum.app/)**(50+ users), and **[Kitevo](https://getkitevo.com/)** - building products from 0 → 1.
-- 💼 Ex-**[Paytm](https://paytm.com/)** <b>Senior Software Engineer</b> - drove ~20% revenue impact and cut critical production errors by ~80% on core payment journeys.
 - 🧩 **~4 years** shipping scalable, production-grade web apps and SaaS platforms across the **MERN** stack.
 - 🤖 Focused on **Generative AI integrations**, **API/third-party integrations**, and **chatbot platforms**.
 - 🌏 Based in **India**, open to **remote / full-stack / frontend / AI-integrated** roles.
