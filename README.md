@@ -20,12 +20,7 @@
 - 🚀 Founded **[GuildOS](https://guildos.design/)**, **[OneAlbum](https://onealbum.app/)**(50+ users), and **[Kitevo](https://getkitevo.com/)** - building products from 0 → 1.
 - 🧩 **~4 years** shipping scalable, production-grade web apps and SaaS platforms across the **MERN** stack.
 - 🤖 Focused on **Generative AI integrations**, **API/third-party integrations**, and **chatbot platforms**.
-- 🌏 Based in **India**, open to **remote / full-stack / frontend / AI-integrated** roles.
-
-### 💼 What I've Built
-
-- **[Paytm](https://paytm.com/)** - *Senior Software Engineer* (2025 - 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
-- **[EnableX](https://www.enablex.io/)** - *Software Engineer → Senior* (2022 - 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs [Chatbot Builder](https://www.enablex.io/dialogs-cloud/conversational-ai-platform), lifting user adoption **+30%** and cutting communication errors **-25%**.
+- open to **remote / full-stack / frontend / AI-integrated** roles.
 
 <!--- stats (start) -->
 <!--
