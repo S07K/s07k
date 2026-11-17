@@ -2,17 +2,13 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Shubham</h1></summary>
-  </ul>
-</div>
 
-<p align="center">
-  <b>Full Stack Engineer</b> · GenAI & SaaS Product Development · 4 YOE
+<h1 style="display: inline-block">Hi 👋, I'm Shubham</h1>
+<p>
+  <b>Full Stack AI Engineer</b> · Experienced GenAI & SaaS Product Developer with 4 YOE
 </p>
 
-<p align="center">
+<p>
   <a href="https://portfolio-indol-three-50.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIj4KPHBhdGggZD0iTTIxIDEyQzIxIDE2Ljk3MDYgMTYuOTcwNiAyMSAxMiAyMUM3LjAyOTQ0IDIxIDMgMTYuOTcwNiAzIDEyQzMgNy4wMjk0NCA3LjAyOTQ0IDMgMTIgM0MxNi45NzA2IDMgMjEgNy4wMjk0NCAyMSAxMloiIHN0cm9rZT0iI0M0OEEwRSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0eWxlPSJmaWx0ZXI6IGRyb3Atc2hhZG93KCAwcHggMHB4IDFweCByZ2JhKDE5NiwgMTM4LCAxNCwgMC40NSkpOyIvPgo8L3N2Zz4K&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/0700shubham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://x.com/0700shubham"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
@@ -21,29 +17,16 @@
 
 ---
 
-- 🚀 **Founding Engineer @ [OneAlbum](https://onealbum.app/)** & **Founder @ [Kitevo](https://getkitevo.com/)** — building products from 0 → 1.
-- 💼 **Ex-[Paytm](https://paytm.com/)** Senior Software Engineer — drove ~20% revenue impact and cut critical production errors by ~80% on core payment journeys.
+- 🚀 Founded **[GuildOS](https://guildos.design/)**, **[OneAlbum](https://onealbum.app/)**(50+ users), and **[Kitevo](https://getkitevo.com/)** - building products from 0 → 1.
+- 💼 Ex-**[Paytm](https://paytm.com/)** <b>Senior Software Engineer</b> - drove ~20% revenue impact and cut critical production errors by ~80% on core payment journeys.
 - 🧩 **~4 years** shipping scalable, production-grade web apps and SaaS platforms across the **MERN** stack.
 - 🤖 Focused on **Generative AI integrations**, **API/third-party integrations**, and **chatbot platforms**.
 - 🌏 Based in **India**, open to **remote / full-stack / frontend / AI-integrated** roles.
 
 ### 💼 What I've Built
 
-- **[OneAlbum](https://onealbum.app/)** — *Founding Engineer* (2026 – Present): building the product and engineering foundation from the ground up.
-- **[Kitevo](https://www.producthunt.com/products/kitevo?launch=kitevo)** — *Founder* (2026 – Present): leading product and tech end-to-end.
-- **[Paytm](https://paytm.com/)** — *Senior Software Engineer* (2025 – 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
-- **[EnableX](https://www.enablex.io/)** — *Software Engineer → Senior* (2022 – 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs Chatbot Builder, lifting user adoption **+30%** and cutting communication errors **-25%**.
-
-### 🌱 Community & Open Source
-- **Contributor**, *[GirlScript Winter of Contributing 2021](https://www.linkedin.com/company/girlscript-winter-of-contributing/)* — collaborative open-source development.
-- **Web Developer**, *[Teach For India](https://www.teachforindia.org/)* — built a high-impact campaign web interface.
-
-### 🎓 Education
-- **B.Sc. (Hons.) Computer Science** — Shaheed Sukhdev College of Business Studies, **[University of Delhi](https://www.du.ac.in/)**.
-
-### 🎯 Beyond Work
-- Passionate about **sports**, **music**, and **meaningful conversations**, and constantly exploring new tech stacks.
-- Explore my [portfolio](https://portfolio-indol-three-50.vercel.app/) for skills, projects, and solutions.
+- **[Paytm](https://paytm.com/)** - *Senior Software Engineer* (2025 - 2026): owned frontend architecture through a major team transition with **0% downtime**; shipped context-aware quote journeys, CPA add-ons, financier search, and insurer-specific flows; boosted engineering velocity ~40% with AI-assisted workflows (Cursor).
+- **[EnableX](https://www.enablex.io/)** - *Software Engineer → Senior* (2022 - 2025): built Meta (Instagram + Messenger) channel integrations, PayU/Stripe in-bot payments, and CRM integrations (Zoho, Zendesk, HubSpot); led frontend of the Dialogs [Chatbot Builder](https://www.enablex.io/dialogs-cloud/conversational-ai-platform), lifting user adoption **+30%** and cutting communication errors **-25%**.
 
 <!--- stats (start) -->
 <!--
@@ -79,34 +62,34 @@
 <!--- stats (end) -->
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies / Tools</h2></summary>
+    <h2 style="display: inline-block">Technologies / Tools</h2>
   </ul>
-</div>
+</div> -->
 
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,python,js,ts,redux,html,css,ruby,sass,bootstrap,tailwind,jquery,git,github,vscode,vim,figma,npm,yarn,vercel,vite,webpack,postman,linux&perline=14">
     <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,nextjs,python,js,ts,redux,html,css,ruby,sass,bootstrap,tailwind,jquery,git,github,vscode,vim,figma,npm,yarn,vercel,vite,webpack,postman,linux&perline=14" />
   </a>
-</p>
+</p> -->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
+    <h2 style="display: inline-block">Connect With Me</h2>
   </ul>
-</div>
+</div> -->
 
 <!--icons and links-->
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/0700shubham/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://x.com/0700shubham" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/function.shubham/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://www.youtube.com/@function.shubham" target="blank"><img align="center" src="https://user-images.githubusercontent.com/47686437/168548113-b3cd4206-3281-445b-b7c6-bc0a3251293d.png" alt="youtube" height="50" width="50" /></a>
-</p>
+</p> -->
 
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
