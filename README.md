@@ -15,6 +15,14 @@
   <a href="mailto:shubham3431kumar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<!--profile visit count-->
+<div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=s07k&label=Profile%20Views&color=0891b2&style=flat)
+[![](https://visitcount.itsvg.in/api?id=s07k&icon=3&color=6)](https://visitcount.itsvg.in)
+
+</div>
+
 ---
 
 - 🚀 Founded **[GuildOS](https://guildos.design/)**, **[OneAlbum](https://onealbum.app/)**(50+ users), and **[Kitevo](https://getkitevo.com/)** - building products from 0 → 1.
@@ -87,11 +95,3 @@
 
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<!--profile visit count-->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=s07k&label=Profile%20Views&color=0891b2&style=flat)
-[![](https://visitcount.itsvg.in/api?id=s07k&icon=3&color=6)](https://visitcount.itsvg.in)
-
-</div>
